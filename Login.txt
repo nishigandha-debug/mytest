@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 This is the Nishi's Login functionality.
 
 This is my change1
 
 This is my change2
+=======
+This is the Nishi's Login functionality.
+>>>>>>> parent of 8b87376... ReqNo- Added one statement
+
+this is bug fix code
